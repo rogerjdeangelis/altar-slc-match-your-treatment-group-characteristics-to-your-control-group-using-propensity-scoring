@@ -11,6 +11,9 @@ Altar slc match your treatment group characteristics to your control group using
     github
     https://github.com/rogerjdeangelis/altar-slc-match-your-treatment-group-characteristics-to-your-control-group-using-propensity-scoring
 
+    hi res graphic
+    https://github.com/rogerjdeangelis/altar-slc-match-your-treatment-group-characteristics-to-your-control-group-using-propensity-scoring/blob/main/match_compare.png
+
     This solution uses the 'persistent work library' defined in the autoexec file, libname workx wpd "d:/wpswrkx";
 
     Related Repos
